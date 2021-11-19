@@ -1,3 +1,5 @@
+//Question 2
+
 import React from 'react';
 function MedicalTreatment(props){
   return(
